@@ -3,31 +3,28 @@
 </div>
 
 <h1 align="center">Hi, I'm [Your Name] 👋</h1>
-<h3 align="center">Cybersecurity Professional & Enthusiast</h3>
+<h3 align="center">A Dedicated Cybersecurity Professional & Enthusiast</h3>
 
 <p align="center">
-I'm a passionate cybersecurity enthusiast with a keen interest in exploring and contributing to the world of digital defense and ethical hacking. Welcome to my GitHub profile where I document my journey, share my projects, and showcase my insights.
+I'm a passionate cybersecurity professional specializing in digital defense and ethical hacking. I use this GitHub profile to document my work, share projects, and contribute to the open-source community.
 </p>
 
 💻 About Me
-🌱 Learning & Growing: I am currently diving deep into network security protocols and cloud security best practices.
+🌱 Learning & Growing: I am currently deepening my expertise in network security protocols and cloud security best practices.
 
-🔭 My Focus: My projects center around penetration testing, threat detection, and building secure applications.
+🔭 My Focus: My projects are centered on penetration testing, threat detection, and building secure applications.
 
-🤝 Collaboration: I'm always open to collaborating on open-source cybersecurity tools or security research.
+🤝 Collaboration: I actively seek to collaborate on open-source cybersecurity tools and security research.
 
-💬 Ask Me About: Anything related to ethical hacking, bug bounties, or building a career in cybersecurity.
+💬 Ask Me About: Ethical hacking, bug bounties, or building a career in cybersecurity.
 
-📫 Connect with me: You can find me on LinkedIn and Twitter.
+📫 Connect with me: LinkedIn | Twitter
 
-⚡ Fun Fact: I once built a mini-honeypot to catch spambots, and it was surprisingly effective!
+⚡ Fun Fact: I once built a miniature honeypot to capture spambots, and its effectiveness was a great lesson in digital defense.
 
 🛠️ Languages & Tools
 <p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,go,bash,linux,docker,kubernetes,aws,gcp,azure,git,figma,vscode" />
-</p>
-<p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dwireshark,nmap,metasploit,burpsuite,sql,kali,c,cpp,html,css" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,go,bash,linux,docker,kubernetes,aws,gcp,azure,git,figma,vscode,wireshark,nmap,metasploit,burpsuite,sql,kali,c,cpp,html,css" />
 </p>
 
 📈 My GitHub Stats
