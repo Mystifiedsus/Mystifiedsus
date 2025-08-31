@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRqa254eGdwc2s1ZWVrb3RreW1xMmF6NHFmdHpmYmRwaDF1ZWM5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8rUf8LqQ27Q2p6Nqg/giphy.gif" alt="Hacker GIF" width="400" />
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/L8rUf8LqQ27Q2p6Nqg/giphy.gif" alt="Hacker GIF" width="400" />
 </div>
 
 <h1 align="center">Hi, I'm [Your Name] 👋</h1>
@@ -10,6 +10,9 @@ I'm a passionate cybersecurity professional specializing in digital defense and 
 </p>
 
 💻 About Me
+As a cybersecurity enthusiast, I am dedicated to continuously expanding my knowledge and skills. My focus is on understanding and mitigating digital threats through hands-on practice in penetration testing, threat detection, and the development of secure applications. I am a strong advocate for open-source and regularly seek opportunities to collaborate on projects that benefit the security community.
+
+🛠️ Core Competencies
 🌱 Learning & Growing: I am currently deepening my expertise in network security protocols and cloud security best practices.
 
 🔭 My Focus: My projects are centered on penetration testing, threat detection, and building secure applications.
@@ -22,10 +25,22 @@ I'm a passionate cybersecurity professional specializing in digital defense and 
 
 ⚡ Fun Fact: I once built a miniature honeypot to capture spambots, and its effectiveness was a great lesson in digital defense.
 
-🛠️ Languages & Tools
-<p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,go,bash,linux,docker,kubernetes,aws,gcp,azure,git,figma,vscode,wireshark,nmap,metasploit,burpsuite,sql,kali,c,cpp,html,css" />
-</p>
+🚀 Projects
+Here are some of my key projects, showcasing my skills in cybersecurity and development.
+
+[Project Name 1]
+A brief but detailed description of the project. Mention the technologies used and what a user can learn by exploring the repository. For example: "This is a simple password checker tool built with Python. It analyzes a user's password against a database of common breached passwords and provides a security score. The project demonstrates my understanding of secure password storage and data handling."
+
+Technologies: [List the tools and languages here]
+
+Link to Repository
+
+[Project Name 2]
+Another brief but detailed description. For example: "A proof-of-concept web application designed to demonstrate common web vulnerabilities like SQL injection and Cross-Site Scripting (XSS). This project serves as a learning tool for aspiring security professionals."
+
+Technologies: [List the tools and languages here]
+
+Link to Repository
 
 📈 My GitHub Stats
 <div align="center">
