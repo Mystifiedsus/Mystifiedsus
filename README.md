@@ -45,10 +45,10 @@ Link to Repository
 📈 My GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mystifiedsus&show_icons=true&theme=onedark" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[Your-Username]&theme=onedark" alt="GitHub Streak" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DMystifiedsus&theme=onedark" alt="GitHub Streak" />
 </div>
 
 📊 Top Languages
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[Your-Username]&layout=compact&theme=onedark" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMystifiedsus&layout=compact&theme=onedark" alt="Top Languages" />
 </div>
