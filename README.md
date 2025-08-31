@@ -2,7 +2,7 @@
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/L8rUf8LqQ27Q2p6Nqg/giphy.gif" alt="Hacker GIF" width="400" />
 </div>
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Susan Chaudhary 👋</h1>
 <h3 align="center">A Dedicated Cybersecurity Professional & Enthusiast</h3>
 
 <p align="center">
@@ -45,7 +45,7 @@ Link to Repository
 📈 My GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&theme=onedark" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[Your-Username]&theme=onedark" alt="GitHub Streak" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DMystifiedsus&theme=onedark" alt="GitHub Streak" />
 </div>
 
 📊 Top Languages
