@@ -2,7 +2,7 @@
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/L8rUf8LqQ27Q2p6Nqg/giphy.gif" alt="Hacker GIF" width="400" />
 </div>
 
-<h1 align="center">Hi, I'm Susan Chaudhary 👋</h1>
+<h1 align="center">Hi, I'm Susan Chaudhury 👋</h1>
 <h3 align="center">A Dedicated Cybersecurity Professional & Enthusiast</h3>
 
 <p align="center">
@@ -44,11 +44,11 @@ Link to Repository
 
 📈 My GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mystifiedsus&show_icons=true&theme=onedark" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DMystifiedsus&theme=onedark" alt="GitHub Streak" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMystifiedsus%26show_icons%3Dtrue%26theme%3Donedark" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DMystifiedsus%26theme%3Donedark" alt="GitHub Streak" />
 </div>
 
 📊 Top Languages
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMystifiedsus&layout=compact&theme=onedark" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMystifiedsus%26layout%3Dcompact%26theme%3Donedark" alt="Top Languages" />
 </div>
